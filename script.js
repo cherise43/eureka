@@ -26,6 +26,7 @@ function renderItems(items){
    //     if (event.target.classList.contains('add-to-cart-btn')) {
      //       const itemId = event.target.dataset.itemId;
      //       addToCart(itemId);
+      //     } else if (event.target.id === 'checkout-btn') {
 
   
 
