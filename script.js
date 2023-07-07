@@ -24,6 +24,7 @@ function renderItems(items){
 }
  //       document.addEventListener('click', (event) => {
    //     if (event.target.classList.contains('add-to-cart-btn')) {
+     //       const itemId = event.target.dataset.itemId;
 
   
 
