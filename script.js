@@ -19,6 +19,9 @@ function renderItems(items){
     <p>Price:${item.price}</p>`
     console.log(card)
 
+    document.querySelector('#items').appendChild(card)
+  })
+
   
 
 
