@@ -21,6 +21,8 @@ function renderItems(items){
 
     document.querySelector('#items').appendChild(card)
   })
+}
+ //       document.addEventListener('click', (event) => {
 
   
 
