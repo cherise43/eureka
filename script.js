@@ -7,7 +7,8 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 }
 fetchItems()
-function renderItems(items){
+function renderItems(items){ 
+  items.forEach(item => {
   
 
 
