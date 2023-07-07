@@ -11,6 +11,7 @@ function renderItems(items){
   items.forEach(item => {
     let card = document.createElement('div')
     card.className="card"
+    card.innerHTML=`
   
 
 
