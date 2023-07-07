@@ -5,4 +5,8 @@ document.addEventListener('DOMContentLoaded', () => {
   .catch(error => {
     console.error('Error fetching items:', error);
   });
+}
+fetchItems()
+  
+
 
