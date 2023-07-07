@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
 fetchItems()
 function renderItems(items){ 
   items.forEach(item => {
+    let card = document.createElement('div')
   
 
 
