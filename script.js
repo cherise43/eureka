@@ -3,4 +3,6 @@ document.addEventListener('DOMContentLoaded', () => {
   .then(response => response.json())
   .then(items => renderItems(items))
   .catch(error => {
+    console.error('Error fetching items:', error);
+  });
 
