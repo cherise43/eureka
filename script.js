@@ -15,6 +15,7 @@ function renderItems(items){
     <div id="product-image">
     <img src ="${item.image}">
     <div>
+    <h3>${item.category}</h3>
 
   
 
