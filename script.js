@@ -17,6 +17,7 @@ function renderItems(items){
     <div>
     <h3>${item.category}</h3>
     <p>Price:${item.price}</p>`
+    console.log(card)
 
   
 
