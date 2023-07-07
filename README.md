@@ -13,7 +13,6 @@ Creating an application /programs information of certain item,price,location,the
 
 
 
-
 # Requirements 
 * Ubuntu
 * Visual Studio Code
