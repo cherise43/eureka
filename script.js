@@ -13,6 +13,7 @@ function renderItems(items){
     card.className="card"
     card.innerHTML=`
     <div id="product-image">
+    <img src ="${item.image}">
 
   
 
