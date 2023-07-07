@@ -14,6 +14,7 @@ function renderItems(items){
     card.innerHTML=`
     <div id="product-image">
     <img src ="${item.image}">
+    <div>
 
   
 
