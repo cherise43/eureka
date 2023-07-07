@@ -31,7 +31,7 @@ function renderItems(items){
           //     }
            //   });
              //   document.getElementById('comments-form').addEventListener('submit', (event) => {
-
+              //     event.preventDefault();
   
 
 
