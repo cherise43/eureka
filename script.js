@@ -18,7 +18,8 @@ document.addEventListener('DOMContentLoaded', () => {
           <div id="product-image">
              <img src ="${item.image}">
           <div>
-          <h3>${item.category}</h3>`
+          <h3>${item.category}</h3>
+          <p>Price:${item.price}</p>`
           console.log(card)
           document.querySelector('#items').appendChild(card)
        })
