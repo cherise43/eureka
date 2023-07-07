@@ -16,6 +16,7 @@ function renderItems(items){
     <img src ="${item.image}">
     <div>
     <h3>${item.category}</h3>
+    <p>Price:${item.price}</p>`
 
   
 
