@@ -28,6 +28,9 @@ function renderItems(items){
      //       addToCart(itemId);
       //     } else if (event.target.id === 'checkout-btn') {
          //       checkout();
+          //     }
+           //   });
+             //   document.getElementById('comments-form').addEventListener('submit', (event) => {
 
   
 
