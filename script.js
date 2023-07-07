@@ -12,6 +12,8 @@ function renderItems(items){
     let card = document.createElement('div')
     card.className="card"
     card.innerHTML=`
+    <div id="product-image">
+
   
 
 
